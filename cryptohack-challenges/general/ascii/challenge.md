@@ -1,0 +1,1 @@
+Run the challenge.py script.

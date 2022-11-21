@@ -1,0 +1,1 @@
+Again, pretty self explanatory. Run the attached script and get the flag.

@@ -1,0 +1,1 @@
+Pretty self explanatory. Just paste the string into the solution field.

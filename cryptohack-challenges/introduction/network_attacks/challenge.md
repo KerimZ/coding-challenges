@@ -1,0 +1,1 @@
+Run challenge.py for the flag.
